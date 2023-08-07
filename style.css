@@ -259,7 +259,7 @@ header.shadow {
 }
 .customers-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
     gap: 1.5rem;
     margin-top: 2rem;
 }
@@ -298,7 +298,7 @@ header.shadow {
 
 .footer {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
     gap: 1.5rem;
 }
 
